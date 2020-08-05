@@ -1,3 +1,6 @@
+''Nette 3.0 Documentation''
+***************************
+
 <div class="columns navig documentation">
 <div class=column>
 
@@ -120,4 +123,3 @@ Contributing
 
 
 {{toc:no}}
-{{maintitle: Nette Documentation}}
